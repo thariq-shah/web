@@ -1,0 +1,3 @@
+[submodule "lib/domain"]
+	path = lib/domain
+	url = https://github.com/thariq-shah/domain.git
